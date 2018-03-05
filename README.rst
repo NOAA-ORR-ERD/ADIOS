@@ -6,6 +6,16 @@ This repository serves as a communication center for the NOAA Oil Libary Project
 
 **Automated Data Inquiry for Oil Spills: ADIOS**
 
+NEWS
+====
+
+NOAA/ADIOS will be at `Interspill <https://www.interspillevent.com/>`_ in London, England, 12-15 March, 2018.
+
+If you have an interst in the project, please find Chris Barker (look for the NOAA Logo on his shirt). Or drop him an email to arrange a meeting:
+
+Chris.Barker@noaa.gov
+
+
 Project goals
 =============
 
