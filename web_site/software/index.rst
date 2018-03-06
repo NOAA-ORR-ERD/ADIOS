@@ -4,7 +4,11 @@ Software
 
 There will be a number of components to the ADIOS Oil Library software:
 
-* A database system.
+.. toctree::
+    :maxdepth: 1
+
+    database
+
 
 * Python code to manage the data: import / export, validation, etc.
 
