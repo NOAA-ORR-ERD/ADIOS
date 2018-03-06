@@ -1,3 +1,7 @@
+# repo specific files
+web_site/_build/
+
+# Mac specific files
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
