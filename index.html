@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Welcome to the ADIOS project &#8212; ADIOS 0.1 documentation</title>
+    <title>The ADIOS Oil Database Project &#8212; ADIOS 0.1 documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <script type="text/javascript" src="_static/documentation_options.js"></script>
@@ -31,8 +31,13 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="welcome-to-the-adios-project">
-<h1>Welcome to the ADIOS project<a class="headerlink" href="#welcome-to-the-adios-project" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="the-adios-oil-database-project">
+<h1>The ADIOS Oil Database Project<a class="headerlink" href="#the-adios-oil-database-project" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="news">
+<h2>NEWS<a class="headerlink" href="#news" title="Permalink to this headline">¶</a></h2>
+<p>NOAA/ADIOS will be at <a class="reference external" href="https://www.interspillevent.com/">Interspill</a> in London, England, 12-15 March, 2018.</p>
+<p>If you have an interst in the project, please find Chris Barker (look for the NOAA Logo on his shirt). Or drop him an email to arrange a meeting:</p>
+<p><a class="reference external" href="mailto:Chris&#46;Barker&#37;&#52;&#48;noaa&#46;gov">Chris<span>&#46;</span>Barker<span>&#64;</span>noaa<span>&#46;</span>gov</a></p>
 <div class="toctree-wrapper compound">
 <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul>
@@ -49,13 +54,47 @@
 </ul>
 </div>
 </div>
+<div class="section" id="project-goals">
+<h2>Project goals<a class="headerlink" href="#project-goals" title="Permalink to this headline">¶</a></h2>
+<p>The goal of this project is to provide a publicly available library of oil chemistry data that can be used to support oil spill response, planning, and preparedness.</p>
+<p>We aim to provide not just data itself, but software to make it easy to access and manipulate the data.</p>
+</div>
+<div class="section" id="adios-components">
+<h2>ADIOS Components<a class="headerlink" href="#adios-components" title="Permalink to this headline">¶</a></h2>
+<p>The project will consist of multiple integrated components:</p>
+<ul class="simple">
+<li>Publicly accessible database of oils and their properties suitable for oil spill planning, response, modeling (and environmental impact analysis and injury assessment?).</li>
+<li>User interface software for viewing and manipulating the database (web based and desktop).</li>
+<li>Web API for accessing the data over the Internet (hosted by NOAA).</li>
+<li>Software library (in the Python language) for working with the data via code.</li>
+<li>Data and file format standards for data import / export and interchange.</li>
+</ul>
+<div class="section" id="open-source">
+<h3>Open Source:<a class="headerlink" href="#open-source" title="Permalink to this headline">¶</a></h3>
+<p>All data and software will be openly available and unencumbered by licensing restrictions.</p>
+<p>Software source code will be published (probably on gitHub) – open source license or public domain.</p>
+<p>Oil Data will be available via a public Web API.</p>
+</div>
+<div class="section" id="proprietary-data">
+<h3>Proprietary data:<a class="headerlink" href="#proprietary-data" title="Permalink to this headline">¶</a></h3>
+<p>There is a need for spill responders and government agencies to occasionally work with business proprietary data. No such data will be in the public database hosted by NOAA. But the software and data interchange formats will be independent of the data itself. Any organization will be able to use the software to manage their own data as they see fit. The database software will be able to export and import full data records (or multiple records), if there is a need to transfer data from one database to another, or use a database record to initialize an oil spill model, such as NOAA’s GNOME model.</p>
+</div>
+</div>
+<div class="section" id="contacts">
+<h2>Contacts<a class="headerlink" href="#contacts" title="Permalink to this headline">¶</a></h2>
+<p>For collaboration opportunities and project level information:</p>
+<p><a class="reference external" href="mailto:Chris&#46;Barker&#37;&#52;&#48;noaa&#46;gov">Chris<span>&#46;</span>Barker<span>&#64;</span>noaa<span>&#46;</span>gov</a></p>
+<p>For oil chemistry / assay questions:</p>
+<p><a class="reference external" href="mailto:Robert&#46;Jones&#37;&#52;&#48;noaa&#46;gov">Robert<span>&#46;</span>Jones<span>&#64;</span>noaa<span>&#46;</span>gov</a></p>
+</div>
 <div class="section" id="indices-and-tables">
-<h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h1>
+<h2>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><a class="reference internal" href="genindex.html"><span class="std std-ref">Index</span></a></li>
 <li><a class="reference internal" href="py-modindex.html"><span class="std std-ref">Module Index</span></a></li>
 <li><a class="reference internal" href="search.html"><span class="std std-ref">Search Page</span></a></li>
 </ul>
+</div>
 </div>
 
 
@@ -66,8 +105,18 @@
         <div class="sphinxsidebarwrapper">
   <h3><a href="#">Table Of Contents</a></h3>
   <ul>
-<li><a class="reference internal" href="#">Welcome to the ADIOS project</a></li>
+<li><a class="reference internal" href="#">The ADIOS Oil Database Project</a><ul>
+<li><a class="reference internal" href="#news">NEWS</a></li>
+<li><a class="reference internal" href="#project-goals">Project goals</a></li>
+<li><a class="reference internal" href="#adios-components">ADIOS Components</a><ul>
+<li><a class="reference internal" href="#open-source">Open Source:</a></li>
+<li><a class="reference internal" href="#proprietary-data">Proprietary data:</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#contacts">Contacts</a></li>
 <li><a class="reference internal" href="#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
 </ul>
 <div class="relations">
 <h3>Related Topics</h3>
