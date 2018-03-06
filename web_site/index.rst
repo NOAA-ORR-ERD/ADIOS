@@ -7,7 +7,6 @@
 The ADIOS Oil Database Project
 ##############################
 
-
 NEWS
 ====
 
@@ -77,7 +76,9 @@ For oil chemistry / assay questions:
 
 Robert.Jones@noaa.gov
 
+This site is manged in the project gitHub project -- comments, additions, etc can be submitted there:
 
+https://github.com/NOAA-ORR-ERD/ADIOS
 
 
 Indices and tables

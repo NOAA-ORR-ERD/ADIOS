@@ -26,6 +26,12 @@ The goal of this project is to provide a publicly available library of oil chemi
 
 We aim to provide not just data itself, but software to make it easy to access and manipulate the data.
 
+NOTE: We apologize for possible naming confusion -- this project is about only the oil database, not the oil weathering/fate model known as ADIOS2. In ADIOS2, the oil database was embedded in the Fate model. With this new effort, we are separating the oil database and associated tools from the model, as a stand alone product, so that it can be used on its own as a source of data about oils for responders, and even as a data source for other models.
+
+For fate modeling, we have merged (and updated) the ADIOS2 weathering algorithms in our new version of GNOME, which is managed in gitHub here:
+
+https://github.com/NOAA-ORR-ERD/PyGnome
+
 
 ADIOS Components
 ================
