@@ -2,16 +2,19 @@
 Automated Data Inquiry for Oil Spills: ADIOS
 ############################################
 
-This repository serves as a communication center for the NOAA Oil Libary Project:
+This repository serves as a communication center for the NOAA Oil Library Project:
 
 **Automated Data Inquiry for Oil Spills: ADIOS**
+
+`See the Project Documentation Here <https://noaa-orr-erd.github.io/ADIOS/>`_
+
 
 NEWS
 ====
 
 NOAA/ADIOS will be at `Interspill <https://www.interspillevent.com/>`_ in London, England, 12-15 March, 2018.
 
-If you have an interst in the project, please find Chris Barker (look for the NOAA Logo on his shirt). Or drop him an email to arrange a meeting:
+If you have an interest in the project, please find Chris Barker (look for the NOAA Logo on his shirt). Or drop him an email to arrange a meeting:
 
 Chris.Barker@noaa.gov
 
@@ -19,9 +22,10 @@ Chris.Barker@noaa.gov
 Project goals
 =============
 
-The goal of this project is to provide a publicly availalbe libary of oil chemistry data that can be used to support oil spill response, planing, and preparedness.
+The goal of this project is to provide a publicly available library of oil chemistry data that can be used to support oil spill response, planning, and preparedness.
 
 We aim to provide not just data itself, but software to make it easy to access and manipulate the data.
+
 
 ADIOS Components
 ================
