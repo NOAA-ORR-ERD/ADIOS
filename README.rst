@@ -12,9 +12,12 @@ This repository serves as a communication center for the NOAA Oil Library Projec
 NEWS
 ====
 
-NOAA/ADIOS will be at `Interspill <https://www.interspillevent.com/>`_ in London, England, 12-15 March, 2018.
+Response Oil Assay workshop
+---------------------------
 
-If you have an interest in the project, please find Chris Barker (look for the NOAA Logo on his shirt). Or drop him an email to arrange a meeting:
+NOAA and the Coastal Response Research Center (CRRC) will be hosting a workshop on defining a "Response Oil Assay" in Seattel in Sept, 2019
+
+For more information, contact:
 
 Chris.Barker@noaa.gov
 
@@ -75,6 +78,8 @@ Chris.Barker@noaa.gov
 For oil chemistry / assay questions:
 
 Robert.Jones@noaa.gov
+
+Dalina.Viveros@noaa.gov
 
 
 License
